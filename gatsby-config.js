@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix: "/portfolio-gatsby",
   siteMetadata: {
     title: "WebDev Portfolio",
     description: "This is WebDev Portfolio Site",
